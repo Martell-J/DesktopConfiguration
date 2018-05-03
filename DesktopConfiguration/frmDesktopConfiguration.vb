@@ -4,7 +4,7 @@ Imports System.IO
 Imports System.Management
 Imports System.Threading
 
-<<<<<<< HEAD
+
 '   Created By: Johnathan Martell
 '   Date: 5/3/2018 (Publish Date)
 '   
@@ -16,8 +16,6 @@ Imports System.Threading
 '                   This project mainly serves as a means to demonstrate my knowledge in creating
 '                   basic--yet functional--windows form applications utilizing VB.net.
 
-=======
->>>>>>> e97088abbc9d63dfa44aa47728f34fb8088ddd8b
 Public Class frmDesktopConfiguration
 
     ' Declare the arrays associated to the various picture elements selected
